@@ -11,16 +11,17 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.4.7",
-    "@strapi/plugin-users-permissions": "4.4.7",
     "@strapi/plugin-i18n": "4.4.7",
-    "pg": "8.6.0"
+    "@strapi/plugin-users-permissions": "4.4.7",
+    "@strapi/strapi": "4.4.7",
+    "pg": "8.6.0",
+    "strapi-plugin-react-editorjs": "^2.0.2"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "9bcf8ea0-b6ba-4a8f-96f9-cc63201f7314"
+    "uuid": "ae072cda-11a0-4ff0-b068-457d5153bd11"
   },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",
